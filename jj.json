@@ -1,4 +1,4 @@
-﻿{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+﻿{"spider":"https://github.com/huangxiaozhou/tvbox/blob/main/pg.jar",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -4604,3 +4604,4 @@
 	        "logo": "./logo.gif",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
